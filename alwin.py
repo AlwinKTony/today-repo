@@ -1,5 +1,5 @@
 # Python3 code to calculate 
-# average of array elements
+# average of array elements[rements2]
  
 # Function that return 
 # average of an array.
