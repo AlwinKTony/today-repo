@@ -15,6 +15,6 @@ def average( a , n ):
 # Driver code
 arr = [10, 2, 3, 4, 5, 6, 7, 8, 9]
 n = len(arr)
-print(average(arr, n))
+print(average(arr1, n1))
  
 # This code is contributed by "Shard_Bhardwaj".
