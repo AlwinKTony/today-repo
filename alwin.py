@@ -2,7 +2,7 @@
 
 # average of array elements[rements2] 
 # Function that return 
-# average of an array.
+# average of an array2.
 def average( a , n ):
  
     # Find sum of array element
